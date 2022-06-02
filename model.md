@@ -1,4 +1,4 @@
-# Ampli Model
+# Model
 
 ## Process
 

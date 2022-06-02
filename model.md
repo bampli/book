@@ -14,8 +14,8 @@ final stage, intended for the consumer."
 Process Steps should be designed and executed according to skills and activities required by the Process:
 
 
-|    | Step 1 ► Step 2 ► ... ►  |
-|----|-------------------------------------------------------------------------|
+|    | Step 1 ► Step 2 ► ... ► Consumer |
+|----|-----------------------------------------------|
 | 1  | The Process should be divided into Steps. |
 | 2  | The work enters a Step, changes its state, and proceeds with the next Step as a client. |
 | 3  | At each Step, something happens in the assets entering a Step, causing their exit in a different state. |

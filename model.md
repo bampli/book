@@ -1,6 +1,6 @@
 # Ampli Model
 
-### PROCESS
+## PROCESS
 
 In the concept introduced by Deming, the Process Steps participate in a process of continuous improvement, or **Kaizen**. To this end, counting on SPC assistance, management shall establish operational definitions, perform sampling, measurements and control charts to reflect the process quality.
 
@@ -22,7 +22,32 @@ Step 1 ► Step 2 ► ... ► Consumer
 7. The nal Step is for the consumer, purchaser of the product or service.
 8. The Steps work together, aiming at quality and customer satisfaction.
 9. Consumer is the main link of the production line.
+10. The Process is a closed loop that consumes products of nature and transforms them into other products of nature.
 
 Step division is designed and executed according to the skills and work ow
 required by the Process.
 
+## Financial Indicators
+
+|    | Indicator            | Description                                                                             |
+|----|----------------------|-----------------------------------------------------------------------------------------|
+| RI | Return on Investment | Net Profit divided by Investment                                                        |
+| I  | Investment           | It is all the money the system invests by buying things that the system intends to sell |
+| NP | Net Profit           | Product Sales minus Raw Material, Labor and Overhead costs                              |
+| PS | Product Sales        | It is the cash flow received from the sale of products                                  |
+| RM | Raw Material         | It is the cash flow that remunarates suppliers                                          |
+| G  | Gain                 | This is the rate at which the system generates money thru sales                         |
+| WF | Worforce             | Company expenses with Labor                                                             |
+| OH | Overhead             | Other fixed costs of the Company                                                        |
+|    |                      |                                                                                         |
+
+## bAmpli: Business Amplifier
+
+- Cyclo: Process Cycle that feeds bAmpli with its Gain
+- Gain (G): Difference Between receiving Product Sales and paying Raw Materials
+- Investor (+): Business Owner
+- Investment (I): Money invested in the company
+- Administration (ADM): Company Administration
+- Reality (REAL): Capturing the reality of the facts
+- Operating Expense (OE): Company operating expenses
+- Net Profit (NP): Company net profit

@@ -1,6 +1,6 @@
 # Ampli Model
 
-## PROCESS
+## Process
 
 In the concept introduced by Deming, the Process Steps participate in a process of continuous improvement, or **Kaizen**. To this end, counting on SPC assistance, management shall establish operational definitions, perform sampling, measurements and control charts to reflect the process quality. Process Steps should be designed and executed according to skills and activities required by the Process.
 

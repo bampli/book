@@ -2,7 +2,7 @@
 
 ## PROCESS
 
-In the concept introduced by Deming, the Process Steps participate in a process of continuous improvement, or **Kaizen**. To this end, counting on SPC assistance, management shall establish operational definitions, perform sampling, measurements and control charts to reflect the process quality.
+In the concept introduced by Deming, the Process Steps participate in a process of continuous improvement, or **Kaizen**. To this end, counting on SPC assistance, management shall establish operational definitions, perform sampling, measurements and control charts to reflect the process quality. Process Steps should be designed and executed according to skills and activities required by the Process.
 
 ```
 "The process is divided into steps; the work enters in one step, changes its
@@ -10,9 +10,6 @@ state and continues, having as a client the next step. At each stage there is
 production, that is, something happens, causing different output, until the
 final stage, intended for the consumer."
 ```
-
-Process Steps should be designed and executed according to skills and activities required by the Process:
-
 
 |    | Step 1 ► Step 2 ► ... ► Consumer |
 |----|-----------------------------------------------|

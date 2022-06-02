@@ -15,8 +15,9 @@ Process Steps should be designed and executed according to skills and activities
 
 Step 1 ► Step 2 ► ... ► Consumer
 
-| 1  | The process is divided into Steps.                                                                                                          |
+|    | Step 1 ► Step 2 ► ... ► Consumer                                                                                                            |
 |----|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | The Process should be divided into Steps.                                                                                                   |
 | 2  | The work enters a Step, changes its state, and proceeds with the next Step as a client.                                                     |
 | 3  | At each Step there is production, that is, something happens in the set of assets entering a Step, causing their exit in a different state. |
 | 4  | Each Step incorporates continual improvement of methods and procedures to meet subsequent Steps.                                            |

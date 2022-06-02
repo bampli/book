@@ -1,5 +1,5 @@
 # BUSINESS AMPLIFIER
-## It makes sense
+## It makes sense.
 
 Read it [online](/BUSINESS%20AMPLIFIER.pdf)!
 

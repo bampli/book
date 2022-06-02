@@ -19,7 +19,7 @@ Step 1 ► Step 2 ► ... ► Consumer
 |----|---------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | The Process should be divided into Steps.                                                                                                   |
 | 2  | The work enters a Step, changes its state, and proceeds with the next Step as a client.                                                     |
-| 3  | At each Step there is production, that is, something happens in the set of assets entering a Step, causing their exit in a different state. |
+| 3  | At each Step there is production, something happens in the assets entering a Step, causing their exit in a different state. |
 | 4  | Each Step incorporates continual improvement of methods and procedures to meet subsequent Steps.                                            |
 | 5  | Each Step cooperates with the next and the previous, seeking optimization.                                                                  |
 | 6  | The Steps establish long-term trust relationships, such as: this is what I can do for you; here's what you can do for me.                   |

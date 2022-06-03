@@ -91,3 +91,6 @@ The company's overall performance has intermediate indices that provide a select
 | OH | Overhead             | Other fixed costs of the Company                                                        |
 |    |                      |                                                                                         |
 
+## bAmpli Circuit
+
+![bAmpli circuit](https://user-images.githubusercontent.com/86032/171904017-c9ba63e8-c650-4a0e-8f3c-38e1bf8694ce.png)

@@ -4,7 +4,7 @@
 
 In the concept introduced by Deming, process steps should be designed and executed according to the skills and activities required by the Process. A continuous improvement, or **Kaizen**, should be established with SPC, TPM and TOC assistance. The company management shall establish operational definitions, perform sampling, measurements and charts to reflect the process quality.
 
-Deming's original text below is detailed into the first 9 rules of the table. A 10th rule is added due to the ciclic nature of the Process. Definitely the Process is not a line, but a circle, with the planet located at the beginning and at the end of it.
+Deming's original text is detailed into the first nine table rules. Definitely the Process is not a line, but a circle, with the planet located at the beginning and at the end of it. Then, a tenth rule is added to remind us about the ciclic nature of the Process.
 
 ```
         "The process is divided into steps; the work enters in one step, changes its

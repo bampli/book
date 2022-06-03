@@ -29,7 +29,7 @@ Deming's original text below is detailed into nine table rules. But definitely, 
 
 ## TPM Total Productive Maintenance
 
-The company's overall performance has intermediate indices that provide a selective and detailed analysis of the sources of problems. Masterfully, TPM has turned time into a decision support tool that brings together concepts as diverse as stopping machines, wasted labor, and faulty parts.
+The company's overall performance has intermediate indices that provide a selective and detailed analysis of the sources of problems. TPM has turned time into a decision support tool that brings together concepts as diverse as stopping machines, wasted labor, and faulty parts.
 
 ![TPM](https://user-images.githubusercontent.com/86032/171900614-65f44b36-b1fb-446e-a0c6-eb1e28ca89cd.png)
 

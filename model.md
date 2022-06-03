@@ -71,6 +71,8 @@ The company's overall performance has intermediate indices that provide a select
 
 ## bAmpli: Business Amplifier
 
+The Business Amplifier powered by a Cyclo highlights the Plan and Reality, i.e. what you want to do and what is really happening.
+
 ![bAmpli](https://user-images.githubusercontent.com/86032/171903220-8b2912cd-c474-45dd-bae3-7bc128aa36d8.png)
 
 |      | Cyclo              | Process Cycle that feeds bAmpli with its Gain                       |

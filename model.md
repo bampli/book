@@ -62,6 +62,8 @@ The company's overall performance has intermediate indices that provide a select
 
 ## bAmpli: Business Amplifier
 
+![bAmpli](https://user-images.githubusercontent.com/86032/171903220-8b2912cd-c474-45dd-bae3-7bc128aa36d8.png)
+
 |      | Cyclo              | Process Cycle that feeds bAmpli with its Gain                       |
 |------|--------------------|---------------------------------------------------------------------|
 | G    | Gain               | Difference Between receiving Product Sales and paying Raw Materials |
@@ -74,6 +76,8 @@ The company's overall performance has intermediate indices that provide a select
 |      |                    |                                                                     |
 
 ## Financial Indicators
+
+![financial equations](https://user-images.githubusercontent.com/86032/171903425-d14a8a7f-f16a-48e6-abcb-eee9c253c0da.png)
 
 |    | Indicator            | Description                                                                             |
 |----|----------------------|-----------------------------------------------------------------------------------------|

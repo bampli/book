@@ -33,7 +33,7 @@ Deming's original text is split into the first nine table rules shown below. But
 | 10 | The Process consumes products from nature and transforms them into other products of nature.|
 
 
-## TPM Total Productive Maintenance
+## Total Productive Maintenance
 
 The company's overall performance has intermediate indices that provide a selective and detailed analysis of the sources of problems. TPM has turned time into a decision support tool that brings together concepts as diverse as stopping machines, wasted labor, and faulty parts.
 

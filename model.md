@@ -7,10 +7,10 @@ In the concept introduced by Deming, process steps should be designed and execut
 Deming's original text below is detailed into the first 9 rules of the table. A 10th rule is added due to the ciclic nature of the Process. Definitely the Process is not a line, but a circle, with the planet located at the beginning and at the end of it.
 
 ```
-"The process is divided into steps; the work enters in one step, changes its
-state and continues, having as a client the next step. At each stage there is
-production, that is, something happens, causing different output, until the
-final stage, intended for the consumer."
+        "The process is divided into steps; the work enters in one step, changes its
+        state and continues, having as a client the next step. At each stage there is
+        production, that is, something happens, causing different output, until the
+        final stage, intended for the consumer."
 ```
 
 |    | Step 1 ► Step 2 ► ... ► Consumer |

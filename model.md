@@ -3,6 +3,10 @@
 Every 30 years, since the invention of the Ford factory in ‘20s, there have been major transformations in business management. Deming in the ‘50s started the revolution in Asian countries with the SPC, followed by JIT and TPM. In the ‘80s, Goldratt brought Westerners back to the top with the Theory of Constraints. It is now important to enhance the information
 system with continuous improvement towards the global optimum. 
 
+```
+        The sum of local optima almost always takes us away from the global great.
+```
+
 This model presents an Information System organized in layers, which offers an alternative for an ubiquitous language to assist investors and managers from companies of all types and sizes, involved in making business decisions.
 
 ## Process

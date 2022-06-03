@@ -2,7 +2,9 @@
 
 ## Process
 
-In the concept introduced by Deming, the Process Steps participate in a process of continuous improvement, or **Kaizen**. To this end, counting on SPC assistance, management shall establish operational definitions, perform sampling, measurements and control charts to reflect the process quality. Process Steps should be designed and executed according to skills and activities required by the Process.
+In the concept introduced by Deming, process steps should be designed and executed according to the skills and activities required by the Process. A continuous improvement, or **Kaizen**, should be established with SPC, TPM and TOC assistance. The company management shall establish operational definitions, perform sampling, measurements and charts to reflect the process quality.
+
+Deming's original text below is detailed into the first 9 rules of the table. A 10th rule is added due to the ciclic nature of the Process. Definitely the Process is not a line, but a circle, with the planet located at the beginning and at the end of it.
 
 ```
 "The process is divided into steps; the work enters in one step, changes its
@@ -25,7 +27,43 @@ final stage, intended for the consumer."
 | 10 | The Process is a closed loop that consumes products of nature and transforms them into other products of nature.|
 
 
+## TPM Total Productive Maintenance
 
+The company's overall performance has intermediate indices that provide a selective and detailed analysis of the sources of problems. Masterfully, TPM has turned time into a decision support tool that brings together concepts as diverse as stopping machines, wasted labor, and faulty parts.
+
+Follows a summary of the TPM indices:
+
+GLOBAL PERFORMANCE
+gpi = ati * oti * opi * zti
+
+Global Performance Index (gpi): This is the multiplication of the four partial indices, and corresponds to the overall performance, considering all sort of issues,  failures and wastes registered in the Process.
+
+Available Time Index (ati): Equivalent to Available Time divided by Working Time, that is, the amount of time that machines and equipment do not fail and production can occur.
+
+Operating Time Index (oti): Equals Operating Time divided by Available Time. Considers the portion of time without a breakdown in production, due to lack of personnel or failure in operation.
+
+Operational Performance Index (opi): This is equivalent to the multiplication of Operating Speed by the Production Time Index, reflecting operational speed losses.
+
+Zero Defect Index (zti): Equivalent to Zero Defect Time, producing only perfect products, divided by Productive Time. This represents the portion of time free from rework on defective products.
+
+### TPM formulas
+
+## Cyclo
+
+
+
+## bAmpli: Business Amplifier
+
+|      | Cyclo              | Process Cycle that feeds bAmpli with its Gain                       |
+|------|--------------------|---------------------------------------------------------------------|
+| G    | Gain               | Difference Between receiving Product Sales and paying Raw Materials |
+| +    | Investor           | Business Owner                                                      |
+| I    | Investment         | Money invested by the company                                       |
+| ADM  | Administration     | Company Administration                                              |
+| REAL | Reality            | Capturing the reality of the facts                                  |
+| OE   | Operating Expenses | Company operating expenses                                          |
+| NP   | Net Profit         | Company net profit                                                  |
+|      |                    |                                                                     |
 
 ## Financial Indicators
 
@@ -40,17 +78,4 @@ final stage, intended for the consumer."
 | WF | Worforce             | Company expenses with Labor                                                             |
 | OH | Overhead             | Other fixed costs of the Company                                                        |
 |    |                      |                                                                                         |
-
-## bAmpli: Business Amplifier
-
-|      | Cyclo              | Process Cycle that feeds bAmpli with its Gain                       |
-|------|--------------------|---------------------------------------------------------------------|
-| G    | Gain               | Difference Between receiving Product Sales and paying Raw Materials |
-| +    | Investor           | Business Owner                                                      |
-| I    | Investment         | Money invested by the company                                       |
-| ADM  | Administration     | Company Administration                                              |
-| REAL | Reality            | Capturing the reality of the facts                                  |
-| OE   | Operating Expenses | Company operating expenses                                          |
-| NP   | Net Profit         | Company net profit                                                  |
-|      |                    |                                                                     |
 

@@ -1,5 +1,10 @@
 # Model
 
+Every 30 years, since the invention of the Ford factory in the ‘20s, there have been major transformations in business management. Deming in the ‘50s started the revolution in Asian countries with the SPC, followed by JIT and TPM. In the ‘80s, Goldratt brought Westerners back to the top with the Theory of Constraints. It is now important to enhance the information
+system with continuous improvement towards the global optimum.
+
+This model presents an Information System organized in layers, which offers an alternative for an ubiquitous language to assist investors and managers from companies of all types and sizes, involved in making business decisions.
+
 ## Process
 
 Following the original manufacturing concepts introduced by Ford & Deming, process steps should be designed and executed according to the skills and activities required by the Process. A continuous improvement, or **Kaizen**, should be established with SPC, TPM and TOC assistance. The company management shall establish operational definitions, perform sampling, measurements and charts to reflect the process quality.
@@ -75,6 +80,12 @@ The company's overall performance has intermediate indices that provide a select
 | NP   | Net Profit         | Company net profit                                                  |
 |      |                    |                                                                     |
 
+## bAmpli Circuit
+
+The bAmpli Business Circuit, result of the association of Business Amplifiers powered by their respective Cyclos, helps investors and managers, at every level of the company, at any time, to have access to the global vision of the organization and its role in globalization.
+
+![bAmpli circuit](https://user-images.githubusercontent.com/86032/171904017-c9ba63e8-c650-4a0e-8f3c-38e1bf8694ce.png)
+
 ## Financial Indicators
 
 ![financial equations](https://user-images.githubusercontent.com/86032/171903425-d14a8a7f-f16a-48e6-abcb-eee9c253c0da.png)
@@ -91,6 +102,3 @@ The company's overall performance has intermediate indices that provide a select
 | OH | Overhead             | Other fixed costs of the Company                                                        |
 |    |                      |                                                                                         |
 
-## bAmpli Circuit
-
-![bAmpli circuit](https://user-images.githubusercontent.com/86032/171904017-c9ba63e8-c650-4a0e-8f3c-38e1bf8694ce.png)

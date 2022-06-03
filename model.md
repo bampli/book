@@ -71,7 +71,7 @@ The company's overall performance has intermediate indices that provide a select
 
 ## bAmpli: Business Amplifier
 
-The Business Amplifier powered by a Cyclo highlights the Plan and Reality, i.e. what you want to do and what is really happening.
+The Business Amplifier powered by a Cyclo highlights the Plan and Reality, i.e. what you want to do and what is really happening. The plan consists of managing one or more Cyclos to feed company with their respective Gains. In addition to the plan, the Information System captures the naked reality, for example, a bank statement with credits and debits in the company's account. Then, the Administration should confront plan with reality and promote actions when there are differences. Operating Expenses should be fed into the Company, including Labor and Overhead.
 
 ![bAmpli](https://user-images.githubusercontent.com/86032/171903220-8b2912cd-c474-45dd-bae3-7bc128aa36d8.png)
 

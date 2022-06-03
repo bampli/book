@@ -31,6 +31,8 @@ Deming's original text below is detailed into nine table rules. But definitely, 
 
 The company's overall performance has intermediate indices that provide a selective and detailed analysis of the sources of problems. Masterfully, TPM has turned time into a decision support tool that brings together concepts as diverse as stopping machines, wasted labor, and faulty parts.
 
+![TPM](https://user-images.githubusercontent.com/86032/171900614-65f44b36-b1fb-446e-a0c6-eb1e28ca89cd.png)
+
 |  TPM    |    Index         | gpi = ati * oti * opi * zti                       |
 |-----|-------------------------------|---------------------------------------------------|
 | gpi | Global Performance      | The multiplication of the four partial indices. It corresponds to the overall performance, considering all sort of issues, failures and wastes registered in the Process. |
@@ -40,20 +42,18 @@ The company's overall performance has intermediate indices that provide a select
 | zti | Zero Defect             | Equivalent to Zero Defect Time, producing only perfect products, divided by Productive Time. This represents the portion of time free from rework on defective products.  |
 
 
-GLOBAL PERFORMANCE
-gpi = ati * oti * opi * zti
 
-Global Performance Index (gpi): The multiplication of four partial indices. It corresponds to the overall performance, considering all sort of issues, failures and wastes registered in the Process.
+![available time](https://user-images.githubusercontent.com/86032/171900684-870706e2-d881-44f0-bc12-bae3f847b015.png)
 
-Available Time Index (ati): Equivalent to Available Time divided by Working Time, that is, the amount of time that machines and equipment do not fail and production can occur.
+![operating time](https://user-images.githubusercontent.com/86032/171900860-465be02f-0fb0-4189-8d5f-fce0fc0ef21a.png)
 
-Operating Time Index (oti): Equals Operating Time divided by Available Time. Considers the portion of time without a breakdown in production, due to lack of personnel or failure in operation.
+![operating speed](https://user-images.githubusercontent.com/86032/171900984-c8b588b9-60cd-4bfa-bab1-6e2490639329.png)
 
-Operational Performance Index (opi): This is equivalent to the multiplication of Operating Speed by the Production Time Index, reflecting operational speed losses.
+![operational performance](https://user-images.githubusercontent.com/86032/171901074-00076062-cd99-4a7f-9863-f791bec466c4.png)
 
-Zero Defect Index (zti): Equivalent to Zero Defect Time, producing only perfect products, divided by Productive Time. This represents the portion of time free from rework on defective products.
+![quality products](https://user-images.githubusercontent.com/86032/171901148-dbb6edf8-a98a-4999-a459-9c14d2d1ce4d.png)
 
-### TPM formulas
+![production counters](https://user-images.githubusercontent.com/86032/171901209-c9406bd5-7eed-45de-ab1a-806e3d32b092.png)
 
 ## Cyclo
 

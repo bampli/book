@@ -86,7 +86,7 @@ The company's overall performance has intermediate indices that provide a select
 
 ## bAmpli Circuit
 
-The bAmpli Business Circuit, result of the association of Business Amplifiers powered by their respective Cyclos, helps investors and managers, at every level of the company, at any time, to have access to the global vision of the organization and its role in globalization.
+The bAmpli Circuit, result of the association of Business Amplifiers powered by their respective Cyclos, helps investors and managers, at every level of the company, at any time, to have access to the global vision of the organization and its role in globalization.
 
 ![bAmpli circuit](https://user-images.githubusercontent.com/86032/171904017-c9ba63e8-c650-4a0e-8f3c-38e1bf8694ce.png)
 

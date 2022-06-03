@@ -4,7 +4,7 @@
 
 Following the original manufacturing concepts introduced by Ford & Deming, process steps should be designed and executed according to the skills and activities required by the Process. A continuous improvement, or **Kaizen**, should be established with SPC, TPM and TOC assistance. The company management shall establish operational definitions, perform sampling, measurements and charts to reflect the process quality.
 
-Deming's original text below is detailed into nine table rules. But definitely, the Process is not a line, but a circle. The planet is located at the beginning and at the end of it. Then, a tenth rule is added to certify the ciclic nature of the Process.
+Deming's original text below is detailed into nine table rules. But definitely, the Process is not a line, but a circle, with the planet located at the beginning and at the end of it. Then, a tenth rule is added to certify the ciclic nature of the Process.
 
 ```
         "The process is divided into steps; the work enters in one step, changes its

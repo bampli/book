@@ -30,7 +30,7 @@ Deming's original text is split into the first nine table rules shown below. But
 | 7  | The final Step is for the consumer, purchaser of the product or service.|
 | 8  | The Steps work together, aiming at quality and customer satisfaction.|
 | 9  | Consumer is the main link of the production line. |
-| 10 | The Process consumes products of nature and transforms them into other products of nature.|
+| 10 | The Process consumes products from nature and transforms them into other products of nature.|
 
 
 ## TPM Total Productive Maintenance

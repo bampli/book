@@ -33,7 +33,7 @@ The company's overall performance has intermediate indices that provide a select
 
 |  TPM    |    Index         | gpi = ati * oti * opi * zti                       |
 |-----|-------------------------------|---------------------------------------------------|
-| gpi | Global Performance      | The multiplication of four partial indices. It corresponds to the overall performance, considering all sort of issues, failures and wastes registered in the Process. |
+| gpi | Global Performance      | The multiplication of the four partial indices. It corresponds to the overall performance, considering all sort of issues, failures and wastes registered in the Process. |
 | ati | Available Time          | Equivalent to Available Time divided by Working Time, that is, the amount of time that machines and equipment do not fail and production can occur. |
 | oti | Operating Time          | Equals Operating Time divided by Available Time. Considers the portion of time without a breakdown in production, due to lack of personnel or failure in operation.  |
 | opi | Operational Performance | This is equivalent to the multiplication of Operating Speed by the Production Time Index, reflecting operational speed losses.  |

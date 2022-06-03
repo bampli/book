@@ -12,6 +12,7 @@ Deming's original text below is detailed into nine table rules. But definitely, 
         production, that is, something happens, causing different output, until the
         final stage, intended for the consumer."
 ```
+![process cycle](https://user-images.githubusercontent.com/86032/171902647-9e3dbf29-dc17-4d88-be9f-1109ef46426f.png)
 
 |    | Step 1 ► Step 2 ► ... ► Consumer |
 |---:|-----------------------------------------------|
@@ -57,7 +58,7 @@ The company's overall performance has intermediate indices that provide a select
 
 ## Cyclo
 
-
+![cyclo](https://user-images.githubusercontent.com/86032/171902727-ee3eff2e-f25f-418c-8e2f-78ff99640161.png)
 
 ## bAmpli: Business Amplifier
 

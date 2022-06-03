@@ -1,6 +1,6 @@
 # Model
 
-Every 30 years, since the invention of the Ford factory in ‘20s, there have been major transformations in business management. Deming in the ‘50s started the revolution in Asian countries with the SPC, followed by JIT and TPM. In the ‘80s, Goldratt brought Westerners back to the top with the Theory of Constraints. Now, it's time to enhance the information
+Every 30 years, since the invention of the Ford factory in the ‘20s, there have been major transformations in business management. Deming in the ‘50s started the revolution in Asian countries with the SPC, followed by JIT and TPM. In the ‘80s, Goldratt brought Westerners back to the top with the Theory of Constraints. Now, it's time to enhance the information
 system with continuous improvement towards the global optimum.
 
 ```

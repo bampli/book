@@ -2,6 +2,8 @@
 ## It makes sense.
 THE SUM OF LOCAL OPTIMA ALMOST ALWAYS TAKES US AWAY FROM THE GLOBAL GREAT.
 
+More details at http://bampli.com.
+
 Read it [online](/BUSINESS%20AMPLIFIER.pdf)!
 
 Need a print copy? Great!
